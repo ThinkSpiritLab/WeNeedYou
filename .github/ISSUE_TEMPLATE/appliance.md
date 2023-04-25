@@ -1,9 +1,9 @@
 ---
 name: Appliance
-about: Template of Appliance to DevTeam in 2021
-title: Appliance to DevTeam of $YourName 2021
+about: Template of Appliance to DevTeam in 2022
+title: Appliance to DevTeam of $YourName 2022
 labels: Appliance
-assignees: A0nameless0man, Nugine, flaryer
+assignees: qwertycxz, bkmashiro
 
 ---
 
