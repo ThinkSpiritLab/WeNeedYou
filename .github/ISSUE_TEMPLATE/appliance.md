@@ -1,7 +1,7 @@
 ---
 name: Appliance
-about: Template of Appliance to DevTeam in 2024
-title: Appliance to DevTeam of $YourName 2024
+about: Template of Appliance to DevTeam in 2025
+title: Appliance to DevTeam of $YourName 2025
 labels: Appliance
 assignees: qwertycxz, bkmashiro
 
