@@ -39,4 +39,3 @@ assignees: qwertycxz, bkmashiro
 
 ### 留个邮箱
 这很重要. 为了让我们能方便的联系到你.
-为了保护隐私, 你可以邮将此issue的地址和你的信息发送到join_think_spirit@yuzhes.com, 我们会单独核实
