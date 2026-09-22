@@ -3,7 +3,7 @@ name: 开发组申请
 about: 申请加入 ThinkSpiritLab 开发组
 title: "[开发组申请] "
 labels: Application
-assignees: qwertycxz, bkmashiro
+assignees: litequark, rainhotel
 
 ---
 
