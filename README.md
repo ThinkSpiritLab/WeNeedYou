@@ -63,4 +63,3 @@
 
 本仓库和 Issue 均为公开内容。请不要填写手机号、私人邮箱、学号、住址等敏感信息。需要确认身份或交换联系方式时，我们会另行沟通。
 
-通过申请的 GitHub 账号将加入 [@ThinkSpiritLab/dev-team](https://github.com/orgs/ThinkSpiritLab/teams/dev-team)。
